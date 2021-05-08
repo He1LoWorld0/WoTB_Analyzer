@@ -2,26 +2,24 @@
 ## 妄想
 
 ### 中間目標:
-blitzのリプレイの形式を何とかする->
-　一旦他のビデオ形式に変換する(キャプチャしてmp4/avi)
-　ミニマップでよくね？(2次元の情報をデータ化する)
-    マップ名称を判断する(画像->教師ありを作るのが簡単)
-    戦況について(小規模戦闘が起こった/ラッシュが起こった)
+- blitzのリプレイの形式を何とかする->
+　- 一旦他のビデオ形式に変換する(キャプチャしてmp4/avi)
+　- ミニマップでよくね？(2次元の情報をデータ化する)
+    - マップ名称を判断する(画像->教師ありを作るのが簡単)
+    - 戦況について(小規模戦闘が起こった/ラッシュが起こった)
 
 ### goal:
-blitzのリプレイからタグづけをする->nista/helloworld
-
-リプレイを保存するプラットフォームを作れたらいいな->webエンジニア
-(他の人:セルブロ)
+- blitzのリプレイからタグづけをする->nista/helloworld
+- リプレイを保存するプラットフォームを作れたらいいな->webエンジニア
+(他の人:セルブロさん)
 
 ## 現実
-開発環境:nista
-GCP(google cloud platform)(使った分だけ課金)(mlflow)
-+ google colabratory(無料)(GPUランダム->GPUリセマラ->(プレミアム))
-->有償(月数十円)
+- 開発環境:nista
+    - GCP(google cloud platform)(使った分だけ課金)(mlflow) + google colabratory(無料)(GPUランダム->GPUリセマラ->(プレミアム))
+    - 有償(月数十円)
 開発環境:ハロワ君
-AWS(GPUあり)
-Jupyter Notebook -> pythonスクリプト .ipynb->.py
+- AWS(GPUあり)
+- Jupyter Notebook -> pythonスクリプト .ipynb->.py
 
 
 ## TODO list
